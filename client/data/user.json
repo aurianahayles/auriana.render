@@ -1,0 +1,30 @@
+{
+  "users" : [
+    {
+      "DisplayName" : "Bilbo Baggins",
+      "EmailAddress" : "bilbo@domain.ca",
+      "Username" : "bbaggins",
+      "Password" : "123456"
+
+
+    },
+
+    {
+      "DisplayName" : "Jessie Jones",
+      "EmailAddress" : "jessie@isp.ca",
+      "Username" : "jjones",
+      "Password" : "678901"
+
+    },
+
+    {
+      "DisplayName" : "Peter Parker",
+      "EmailAddress" : "peter@durhamcollege.ca",
+      "Username" : "pparker",
+      "Password" : "246801"
+
+
+    }
+
+  ]
+}

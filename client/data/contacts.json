@@ -1,0 +1,25 @@
+
+{
+  "users" : [
+    {
+      "DisplayName" : "Peter Parker",
+      "ContactNumber" : "416-555-5555",
+      "EmailAddress" : "peterparker@domain.ca"
+
+    },
+
+    {
+      "DisplayName" : "Emily Myles",
+      "ContactNumber" : "416-333-3333",
+      "EmailAddress" : "mylesemily@domain.ca"
+
+    },
+
+    {
+      "DisplayName" : "Mary Sue",
+      "ContactNumber" : "416-444-4444",
+      "EmailAddress" : "suemary@domain.ca"
+
+    }
+  ]
+}
